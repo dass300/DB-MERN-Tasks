@@ -1,0 +1,32 @@
+.searchList-container{
+    width: 100%;
+    height: 380px;
+    /* background: #4140405b; */
+    overflow: auto;
+    
+}
+.searchList-container .searchList-items{
+    display: flex;
+    /* word-break: break-all; */
+    background: #37405151;
+    margin-bottom: 15px;
+    padding: 20px;
+    border-radius: 4px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    
+}
+
+.searchList-container .searchList-items img{
+    /* background: red; */
+    /* width: 42px;
+    height: 42px;
+    object-fit: contain; */
+   
+    
+}
+.searchList-container .searchList-items .title{
+   margin-left: 15px;
+    
+}

@@ -1,0 +1,26 @@
+.search-container {
+  max-width: 600px;
+  width: 100%;
+  
+}
+.search-container .heading-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  
+}
+.search-container .heading-section img {
+  
+  width: 30px;
+  height: 30px;
+  filter: invert(1);
+  margin-right: 10px;
+  
+}
+.search-container .heading-section h1 {
+  color: white;
+  font-size: 28px;
+  text-align: left;
+
+}

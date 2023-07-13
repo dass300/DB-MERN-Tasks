@@ -1,0 +1,20 @@
+.searchList-container{
+    /* background: whitesmoke; */
+    overflow: auto;
+    height: 380px;
+    
+}
+.searchList-container .searchList-items{
+    background:rgba(126, 127, 135, 0.521) ;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;    
+    display: flex;
+    
+}
+.searchList-container .searchList-items{
+   gap: 10px;
+   align-items: center;
+   /* justify-content: space-around; */
+}

@@ -1,0 +1,43 @@
+.search-input-container{
+    width: 100%;
+    position: relative;
+    
+
+}
+.search-input-container input{
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    outline: none;
+    padding-right: 40px;
+
+
+}
+.search-input-container button{
+    
+    cursor: pointer;
+    position: absolute;
+    right: 4px;
+    top: 6px;
+    border: none;
+    background-color: transparent;
+    opacity: .5;
+   
+
+}
+.search-input-container button:hover{
+    opacity: 1;
+    transform: scale(1.2,1.2);
+    
+
+}
+.search-input-container img{
+    
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+
+}

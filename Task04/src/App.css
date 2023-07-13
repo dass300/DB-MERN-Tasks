@@ -5,7 +5,9 @@
   text-align: center;
   overflow: hidden;
 }
-
+.App{
+  align-items: center;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
